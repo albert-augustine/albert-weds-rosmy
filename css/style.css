@@ -440,3 +440,8 @@
     background: var(--bs-dark) !important;
 }
 /*** copyright end ***/
+
+.bride-groom {
+    width: 200px;
+    height: 200px;
+}
