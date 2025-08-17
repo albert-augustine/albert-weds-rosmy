@@ -445,3 +445,26 @@
     width: 200px;
     height: 200px;
 }
+
+.location-btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    padding: 10px;
+    background: #fff;
+    color: #f55b5b;
+    font-weight: bold;
+    border-radius: 6px;
+    text-decoration: none;
+    transition: all 0.3s ease;
+}
+
+.location-btn:hover {
+    background: #ffd9d9;
+}
+
+.location-btn svg {
+    width: 18px;
+    height: 18px;
+    fill: #f55b5b;
+}
